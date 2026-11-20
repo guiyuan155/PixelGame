@@ -1,0 +1,4 @@
+package com.example.pixelgame.effect;
+
+public class HitEffect {
+}
